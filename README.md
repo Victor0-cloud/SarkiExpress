@@ -4,7 +4,7 @@ The published web build of **Sarki Express** (sarkiexpress.fun), served as stati
 files by Vercel. Nothing is built here: these are the files Godot 4.7.2 exports
 (`--export-release "Web"`) from the game project, which is kept separately.
 
-Current build: **0.1.0-web8**, exported from game commit `ada16e6`.
+Current build: **0.1.0-web10**, exported from game commit `0c5c469`.
 
 To publish a new build: replace the exported files (index.html, index.js,
 index.wasm, index.pck, the icons and audio worklets) with the new export,
